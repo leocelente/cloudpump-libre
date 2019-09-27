@@ -1,0 +1,167 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\cores\\esp32"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\variants\\esp32"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Leonardo\\Documents\\Arduino\\ES32-BM019-BLE-DEEPSLEEP-TABS-TTGO-NVS\\build\\sketch\\ES32-BM019-BLE-DEEPSLEEP-TABS-TTGO.ino.cpp",
+    "Include": "BLE2902.h",
+    "Includepath": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Leonardo\\Documents\\Arduino\\ES32-BM019-BLE-DEEPSLEEP-TABS-TTGO-NVS\\build\\sketch\\ES32-BM019-BLE-DEEPSLEEP-TABS-TTGO.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Leonardo\\Documents\\Arduino\\ES32-BM019-BLE-DEEPSLEEP-TABS-TTGO-NVS\\build\\sketch\\ES32-BM019-BLE-DEEPSLEEP-TABS-TTGO.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLE2902.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLE2904.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEAddress.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEAdvertisedDevice.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEAdvertising.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEBeacon.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLECharacteristic.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLECharacteristicMap.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEDescriptor.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEDescriptorMap.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEDevice.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEExceptions.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEHIDDevice.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLERemoteCharacteristic.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLERemoteDescriptor.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLERemoteService.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEScan.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLESecurity.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEService.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEServiceMap.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEUUID.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEUtils.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\BLEValue.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\FreeRTOS.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\BLE\\src\\GeneralUtils.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leonardo\\Documents\\Arduino\\hardware\\espressif\\esp32\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

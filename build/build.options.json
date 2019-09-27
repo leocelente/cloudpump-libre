@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "\\build\\preproc\\ctags_target_for_gcc_minus_e.cpp,\\build\\sketch\\ES32-BM019-BLE-DEEPSLEEP-TABS-TTGO.ino.cpp",
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "customBuildProperties": "build.path=c:\\Users\\Leonardo\\Documents\\Arduino\\ES32-BM019-BLE-DEEPSLEEP-TABS-TTGO-NVS\\build,build.warn_data_percentage=75",
+  "fqbn": "espressif:esp32:esp32:PartitionScheme=no_ota,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,C:\\Users\\Leonardo\\AppData\\Local\\Arduino15\\packages,C:\\Users\\Leonardo\\Documents\\Arduino\\hardware",
+  "otherLibrariesFolders": "C:\\Users\\Leonardo\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10808",
+  "sketchLocation": "c:\\Users\\Leonardo\\Documents\\Arduino\\ES32-BM019-BLE-DEEPSLEEP-TABS-TTGO-NVS\\ES32-BM019-BLE-DEEPSLEEP-TABS-TTGO.ino",
+  "toolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,C:\\Users\\Leonardo\\AppData\\Local\\Arduino15\\packages"
+}
